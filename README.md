@@ -1,5 +1,5 @@
 # Quick start
-1. Go: https://www.radiorecord.ru/player
+1. Go: https://www.radiorecord.ru/player/
 2. Ctrl+Shift+I
 3. Go: "Console"
 3. Type script in console. 
