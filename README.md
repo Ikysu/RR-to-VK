@@ -1,7 +1,7 @@
-# Radio Record to VK
+# Radio Record to VK [[EN](README.md)|[RU](README_RU.md)]
 Script for quickly finding music in VK
 
-# Quick start [[EN](README.md)|[RU](README_RU.md)]
+# Quick start
 1. Go: https://www.radiorecord.ru/player/
 2. Ctrl+Shift+I
 3. Go: "Console"
