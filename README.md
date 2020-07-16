@@ -15,4 +15,4 @@ Script for quickly finding music in VK
 
 
 # How it works?
-After you have done everything according to the instructions and the console displays “Injected”, you can press the VK button in the lower right corner when you enjoy playing the track.
+After you have done everything according to the instructions and the console displays “Injected” and «undefined», you can press the VK button in the lower right corner when you enjoy playing the track.
