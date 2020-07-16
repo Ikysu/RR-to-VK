@@ -1,8 +1,8 @@
-# Quick start
+# Quick start [[EN](#README.md)RU(#README_RU.md)]]
 1. Go: https://www.radiorecord.ru/player/
 2. Ctrl+Shift+I
 3. Go: "Console"
-3. Type script in console. 
+4. Type script in console. 
 
 ## Script
 
