@@ -1,4 +1,4 @@
-# Radio Record to VK [`EN`|[RU](README_RU.md)]
+# Radio Record to VK [`EN`|[`RU`](README_RU.md)]
 Script for quickly finding music in VK
 
 # Quick start
