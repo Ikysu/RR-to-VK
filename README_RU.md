@@ -1,3 +1,6 @@
+# Radio Record to VK
+Скрипт для быстрого поиска музыки в ВК
+
 # Быстрый старт [[EN](README.md)|[RU](README_RU.md)]
 1. Перейдите: https://www.radiorecord.ru/player/
 2. Зажми: Ctrl+Shift+I
