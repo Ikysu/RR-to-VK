@@ -10,7 +10,7 @@ Script for quickly finding music in VK
 ## Script
 
 ```
-(function(){var _a=document.getElementById("music_mini").children[1];_a.removeAttribute("onclick");_a.setAttribute("onclick","window.open('https://vk.com/audio?q='+document.getElementById('music_mini_artist').innerText+' - '+document.getElementById('music_mini_song').innerText,'_blank','width=1100,height=800')")}).call(this);console.log("Injected!")
+(function(){var _a="window.open('https://vk.com/audio?q='+document.getElementById('music_mini_artist').innerText+' - '+document.getElementById('music_mini_song').innerText,'_blank','width=1100,height=800')";_b=document.getElementById("music_mini").children[1];_b.removeAttribute("onclick");_b.setAttribute("onclick",_a);_c=document.getElementById("music").children[5];_c.removeAttribute("onclick");_c.setAttribute("onclick",_a)}).call(this);console.log("Injected!")
 ```
 
 
