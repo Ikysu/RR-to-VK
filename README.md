@@ -1,4 +1,4 @@
-# Quick start [[EN](#README.md)|[RU](#README_RU.md)]
+# Quick start [[EN](README.md)|[RU](README_RU.md)]
 1. Go: https://www.radiorecord.ru/player/
 2. Ctrl+Shift+I
 3. Go: "Console"
